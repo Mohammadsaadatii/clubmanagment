@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/administrator-line.svg</file>
+    <file>icons/align-justify.svg</file>
+    <file>icons/food-apple-24-regular.svg</file>
+    <file>icons/home-edit-outline.svg</file>
+    <file>icons/muscle.svg</file>
+    <file>icons/scan.svg</file>
+    <file>icons/setting-two.svg</file>
+    <file>icons/travel-hotel-dumbell-sports-weights-dumbbell-sport-fitness.svg</file>
+    <file>icons/users-three.svg</file>
+    <file>C:/Users/deniz rayan/Downloads/mohamed-fareed-rbSNsoXk-3A-unsplash.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>icons/download.jpg</file>
+  </qresource>
+</RCC>

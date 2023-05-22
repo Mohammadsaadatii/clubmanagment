@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>template/icons/cross.jpg</file>
+    <file>template/icons/recharge.jpg</file>
+    <file>template/icons/sighnup.jpg</file>
+    <file>template/icons/light-bulbs-g7b6309d0f_1920.jpg</file>
+    <file>template/icons/4k-g6134338e8_640.jpg</file>
+    <file>template/icons/white/about-circle-outline.svg</file>
+    <file>template/icons/white/admin.svg</file>
+    <file>template/icons/white/alert-badge-16- white.svg</file>
+    <file>template/icons/white/alert-badge-16-regular.svg</file>
+    <file>template/icons/white/arrow-back-ios-new-rounded.svg</file>
+    <file>template/icons/white/calendar.png</file>
+    <file>template/icons/white/close-circle-outline purple.svg</file>
+    <file>template/icons/white/close-circle-outline.svg</file>
+    <file>template/icons/white/create-acc.svg</file>
+    <file>template/icons/white/dumble white.svg</file>
+    <file>template/icons/white/exclamation.svg</file>
+    <file>template/icons/white/exclamation-thick.svg</file>
+    <file>template/icons/white/food white.svg</file>
+    <file>template/icons/white/food.svg</file>
+    <file>template/icons/white/full-screen.svg</file>
+    <file>template/icons/white/maximize white.svg</file>
+    <file>template/icons/white/maximize whites.svg</file>
+    <file>template/icons/white/maximize.svg</file>
+    <file>template/icons/white/minimize-rounded white.svg</file>
+    <file>template/icons/white/minimize-rounded.svg</file>
+    <file>template/icons/white/muscle white.svg</file>
+    <file>template/icons/white/round-close white.svg</file>
+    <file>template/icons/white/round-close.svg</file>
+    <file>template/icons/white/scan white.svg</file>
+    <file>template/icons/white/settings white.svg</file>
+    <file>template/icons/white/text-align-justify-bold.svg</file>
+    <file>template/icons/white/user.svg</file>
+    <file>template/icons/white/user-circle-linear white.svg</file>
+    <file>template/icons/white/user-circle-linear.svg</file>
+    <file>template/icons/white/user-threes.svg</file>
+  </qresource>
+</RCC>

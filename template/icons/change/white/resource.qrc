@@ -1,0 +1,46 @@
+<RCC>
+  <qresource prefix="white icons">
+    <file>search-outline.svg</file>
+    <file>clear-outlined.svg</file>
+    <file>round-keyboard-arrow-down.svg</file>
+    <file>round-keyboard-arrow-up.svg</file>
+    <file>about-circle-outline.svg</file>
+    <file>exclamation-thick.svg</file>
+    <file>exclamation.svg</file>
+    <file>about-circle-outline.svg</file>
+    <file>exclamation-thick.svg</file>
+    <file>exclamation.svg</file>
+    <file>arrow-back-ios-new-rounded.svg</file>
+    <file>maximize whites.svg</file>
+    <file>full-screen.svg</file>
+    <file>user-circle-linear white.svg</file>
+    <file>alert-badge-16- white.svg</file>
+    <file>minimize-rounded white.svg</file>
+    <file>maximize white.svg</file>
+    <file>round-close white.svg</file>
+    <file>user.svg</file>
+    <file>user-circle-linear.svg</file>
+    <file>round-close.svg</file>
+    <file>maximize.svg</file>
+    <file>minimize-rounded.svg</file>
+    <file>close-circle-outline.svg</file>
+    <file>close-circle-outline purple.svg</file>
+    <file>admin.svg</file>
+    <file>create-acc.svg</file>
+    <file>dumble white.svg</file>
+    <file>food white.svg</file>
+    <file>food.svg</file>
+    <file>muscle white.svg</file>
+    <file>scan white.svg</file>
+    <file>settings white.svg</file>
+    <file>text-align-justify-bold.svg</file>
+    <file>user-threes.svg</file>
+  </qresource>
+  <qresource prefix="image">
+    <file>fitnessss.jpg</file>
+    <file>fitness.jpg</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>calendar.png</file>
+  </qresource>
+</RCC>
