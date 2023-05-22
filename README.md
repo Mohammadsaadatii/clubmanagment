@@ -22,8 +22,7 @@ views.mywies section. After that, you should find your serial port by right-clic
 .exe file using the PyInstaller library with the command    ```pyinstaller --onefile --noconsole --icon=icon.ico myscript.py```. 
 If you have followed all the steps correctly, you can easily use this software."
 
-In this revised version, I've broken up the original long sentence into several shorter sentences to make it easier to read and understand. 
-I've also added some punctuation and a few more words to clarify the meaning of the original text.
+
 
 ## Usage
 
