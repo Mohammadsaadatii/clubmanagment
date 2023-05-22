@@ -1,7 +1,7 @@
 # Project Name
 Club Management
 "To keep track of athletes entering and exiting the club, and to calculate their access to the club."
-A brief description of your project.
+
 
 
 
