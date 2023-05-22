@@ -1,21 +1,19 @@
 # Project Name
 Club Management
-
+"To keep track of athletes entering and exiting the club, and to calculate their access to the club."
 A brief description of your project.
 
-## Table of Contents
 
+
+
+## Installation
+To use the software, it is necessary to install these libraries.
 - [     "jdatetime==4.1.0",
         "mysql-connector-python==8.0.31",
         "PyQt5==5.15.7",
         "pyserial==3.5",
         "playsound==1.2.2",
-        ](#installation)
-- ["To keep track of athletes entering and exiting the club, and to calculate their access to the club."](#usage)
-
-
-## Installation
-
+        ]
 "First, you must install the MySQl database on your system. Next, you should configure the database in the 
 views.mywies section. After that, you should find your serial port by right-clicking on "My Computer" in the 
 "Devices" section, and then enter it in the "function tagReader" (e.g., COM7). Finally, you can create the 
